@@ -32,7 +32,7 @@ Visit the live website:
 
 ✦ Project Demo
 
-https://youtu.be/jtrawH9JJng?si=XkbW44_oFI9rUBcR
+**https://youtu.be/jtrawH9JJng?si=XkbW44_oFI9rUBcR**
 
 ## 🎓 Course
 
