@@ -2,13 +2,13 @@
 
 A modern and elegant cake shop website featuring delicious cakes and desserts, designed with a clean and responsive user interface.
 
-## 🌸 About the Project
+## About the Project
 
 **VELORA Cake** is a front-end web project developed as part of the **Front-End Development Course at Coders Academy**.
 
 The project focuses on creating a visually appealing and responsive cake shop website while applying fundamental front-end development concepts, including **HTML, CSS, JavaScript, and Responsive Web Design**.
 
-## ✨ Features
+## Features
 
 * 🍰 Modern and elegant cake shop design
 * 🧁 Attractive cake and dessert showcase
@@ -38,6 +38,3 @@ Project Grade: 95/100
 ## 👩‍💻 Developer
 
 **Hiba Hroob**
-
-website URL:
-https://hiba-hroob.github.io/VELORA/
