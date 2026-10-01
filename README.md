@@ -31,6 +31,7 @@ Visit the live website:
 **https://hiba-hroob.github.io/VELORA/**
 
 ✦ Project Demo
+
 https://youtu.be/jtrawH9JJng?si=XkbW44_oFI9rUBcR
 
 ## 🎓 Course
